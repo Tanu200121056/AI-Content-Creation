@@ -39,8 +39,7 @@ After running the app, you can generate content for university courses by specif
 - Expanding content generation to include essays and short-answer questions.
 - Enhancing AI models for more contextual understanding and relevance in content creation.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 
 
