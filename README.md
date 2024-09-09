@@ -1,6 +1,7 @@
 AI-Enhanced Content Creation for University Courses
 
 
+
 Project Overview:
 This project aims to automate the generation of content for university courses, including multiple-choice questions and assessments, using AI technologies. The solution is built using the Google Gemini API, LlamaIndex, LangChain, and iterative prompting techniques. By automating content creation, it reduces manual effort, saves time, and provides scalable content generation for a variety of courses.
 
